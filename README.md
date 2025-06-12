@@ -1,2 +1,2 @@
 # desafio-logica-dio
-desafio de lógica do curso FrontEnd da Dio
+Desafio de lógica do curso FrontEnd da Dio
